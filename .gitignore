@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.buildozer
+bin
+buildozer
+buildozer.spec
 # C extensions
 *.so
 
