@@ -1,1 +1,2 @@
 Kivy>=2.2.0
+django-environ>=0.10.0
